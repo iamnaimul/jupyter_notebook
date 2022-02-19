@@ -9,3 +9,4 @@ def run_jupyter():
 
 
 run_jupyter()
+print('Do Not Close The Window\nPress Quite on Browser\nthen Close it')
