@@ -8,5 +8,5 @@ def run_jupyter():
 	subprocess.getoutput('jupyter notebook')
 
 
-print('Do Not Close The Window\nPress Quit on Browser\nthen Close it')
+print('************************\nDO NOT CLOSE THIS WINDOW\n************************\nPress Quit on Browser\nthen Close it\nThank You')
 run_jupyter()
